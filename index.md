@@ -17,14 +17,15 @@
 
 ---
 
-### Category Name 2
+### CSE 780: Data Science Projects
 
-- [Project 1 Title](/pdf/Final Project.pdf)
-- [Project 2 Title](/pdf/Assignment 5.pdf)
-- [Project 3 Title](/pdf/Assignment 4.pdf)
-- [Project 4 Title](/pdf/Assignment 3.pdf)
-- [Project 5 Title](/pdf/Assignment 2.pdf)
-- [Project 5 Title](/pdf/Assignment 1.pdf)
+- [Final Project: Seoul Bike Sharing Analysis](/pdf/CSE780/CSE780_Final_Project.pdf)
+- [Mixture Discriminant Analysis of Dry Beans](/pdf/CSE780/CSE780_Assignment_5.pdf)
+- [Cluster Analysis of Online Shoppers](/pdf/CSE780/CSE780_Assignment_4.pdf)
+- [Classification Tree Analysis for Car Evaluation](/pdf/CSE780/CSE780_Assignment_3.pdf)
+- [Logistic Regression Analysis of Diabetes](/pdf/CSE780/CSE780_Assignment_2.pdf)
+- [Association Rules Analysis of Income Inequality](/pdf/CSE780/CSE780_Assignment_1.pdf)
+
 ---
 
 
