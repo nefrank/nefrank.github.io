@@ -19,12 +19,12 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+- [Project 1 Title](/pdf/Final Project.pdf)
+- [Project 2 Title](/pdf/Assignment 5.pdf)
+- [Project 3 Title](/pdf/Assignment 4.pdf)
+- [Project 4 Title](/pdf/Assignment 3.pdf)
+- [Project 5 Title](/pdf/Assignment 2.pdf)
+- [Project 5 Title](/pdf/Assignment 1.pdf)
 ---
 
 
