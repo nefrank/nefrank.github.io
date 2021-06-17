@@ -7,6 +7,7 @@
 [Mammogram Segmentation Using Modified U-Net](/New_Segmentation_DDSM.ipynb)
 <img src="images/AI.png?raw=true"/>
 
+<!---
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -16,6 +17,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+
+--->
 
 ### CSE 780: Data Science Projects
 
