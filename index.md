@@ -4,7 +4,7 @@
 
 ### Projects 
 
-[Mammogram Segmentation Using Modified U-Net](/New_Segmentation_DDSM.ipynb)
+[Mammogram Segmentation Using Modified U-Net](/DDSM_Segmentation.html)
 <img src="images/AI.png?raw=true"/>
 
 <!---
