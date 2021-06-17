@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Projects 
 
-[Project 1 Title](/sample_page)
+[Mammogram Segmentation Using Modified U-Net](/New_Segmentation_DDSM)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
