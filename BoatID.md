@@ -28,5 +28,5 @@ The weights from the first model are then used with DeepSORT to track the detect
 
 ## Demo
 
-https://user-images.githubusercontent.com/72168799/130131251-9a2f0e37-4333-4155-8f5a-ac6f48b7bccc.mp4
-
+<video src="https://user-images.githubusercontent.com/72168799/130131251-9a2f0e37-4333-4155-8f5a-ac6f48b7bccc.mp4" controls="controls" style="max-width: 730px;">
+</video>
