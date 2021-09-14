@@ -8,7 +8,7 @@
 [<img src="images/AI.png?raw=true"/>](/DDSM_Segmentation.html)
 
 #### [Blood Pressure Encoder from ECG and PPG Using 1D U-Net](/BPUnet.md)
-[<img src="images/AI.png?raw=true"/>](/BPUnet.md)
+[<img src="images/BP.png?raw=true"/>](/BPUnet.md)
 
 #### [Maritime Vessel Detection Using YOLOv4 and DeepSORT](/BoatID.md)
 [<img src="images/AI.png?raw=true"/>](/BoatID.md)
