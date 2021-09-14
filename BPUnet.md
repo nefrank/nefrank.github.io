@@ -22,4 +22,12 @@ The model was trained by dividing up the waveforms into segments containing two 
 
 https://user-images.githubusercontent.com/72168799/130130348-b980843a-4e38-4bdd-89d5-1e2a5486cc68.mp4
 
-![Alt Text](https://user-images.githubusercontent.com/72168799/130130348-b980843a-4e38-4bdd-89d5-1e2a5486cc68.mp4)
+<div class="embed-container">
+  <iframe
+      width="640"
+      height="480"
+      src="https://drive.google.com/file/d/1W4mO5NmHEg8DQCve0B3dfuHq4x2xjJxq/preview"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>
+</div>
