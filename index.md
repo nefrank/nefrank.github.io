@@ -4,7 +4,13 @@
 
 ### Projects 
 
-[Mammogram Segmentation Using Modified U-Net](/DDSM_Segmentation.html)
+[Mammogram Segmentation Using Modified 2D U-Net](/DDSM_Segmentation.html)
+<img src="images/AI.png?raw=true"/>
+
+[Blood Pressure Encoder from ECG and PPG Using 1D U-Net](/BPUnet.md)
+<img src="images/AI.png?raw=true"/>
+
+[Maritime Vessel Detection Using YOLOv4 and DeepSORT](/BoatID.md)
 <img src="images/AI.png?raw=true"/>
 
 <!---
