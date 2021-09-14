@@ -21,3 +21,5 @@ The model was trained by dividing up the waveforms into segments containing two 
 ## Demo
 
 https://user-images.githubusercontent.com/72168799/130130348-b980843a-4e38-4bdd-89d5-1e2a5486cc68.mp4
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
