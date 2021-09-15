@@ -29,6 +29,7 @@
 ### CSE 780: Data Science - Project Reports
 
 - #### [Final Project: Seoul Bike Sharing Analysis](/pdf/CSE780/CSE780_Final_Project.pdf)
+[<img src="images/Bike.png?raw=true"/>](/pdf/CSE780/CSE780_Final_Project.pdf)
 - #### [Mixture Discriminant Analysis of Dry Beans](/pdf/CSE780/CSE780_Assignment_5.pdf)
 - #### [Cluster Analysis of Online Shoppers](/pdf/CSE780/CSE780_Assignment_4.pdf)
 - #### [Classification Tree Analysis for Car Evaluation](/pdf/CSE780/CSE780_Assignment_3.pdf)
