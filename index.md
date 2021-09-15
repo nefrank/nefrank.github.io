@@ -5,7 +5,7 @@
 ### Projects 
 
 #### [Mammogram Segmentation Using Modified 2D U-Net](/DDSM_Segmentation.html)
-[<img src="images/AI.png?raw=true"/>](/DDSM_Segmentation.html)
+[<img src="images/Mamo.png?raw=true"/>](/DDSM_Segmentation.html)
 
 #### [Blood Pressure Encoder from ECG and PPG Using 1D U-Net](/BPUnet.md)
 [<img src="images/BP.png?raw=true"/>](/BPUnet.md)
