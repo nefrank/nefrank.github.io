@@ -40,4 +40,3 @@
 [<img src="images/Diabetes.png?raw=true"/>](/pdf/CSE780/CSE780_Assignment_2.pdf)
 - #### [Association Rules Analysis of Income Inequality](/pdf/CSE780/CSE780_Assignment_1.pdf)
 [<img src="images/Income.png?raw=true"/>](/pdf/CSE780/CSE780_Assignment_1.pdf)
----
