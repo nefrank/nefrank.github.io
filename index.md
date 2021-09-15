@@ -26,7 +26,7 @@
 
 --->
 
-### CSE 780: Data Science Projects
+### CSE 780: Data Science - Project Reports
 
 - #### [Final Project: Seoul Bike Sharing Analysis](/pdf/CSE780/CSE780_Final_Project.pdf)
 - #### [Mixture Discriminant Analysis of Dry Beans](/pdf/CSE780/CSE780_Assignment_5.pdf)
