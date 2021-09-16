@@ -1,10 +1,10 @@
 # 2D U-Net for Mammogram Segmentation
  
 ## Objective
-The goal of this project is to develop a computer vision system to perform segmentation of the pectoral muscle in mammograms. A mammogram is an X-ray image of the breast, and can be segmented into different anatomical regions depending on the type of tissue present. Segmenting the locstion of each type of tissue, is both relevant for radiologists as well as computer aided diagnosis (CAD) systems. With CAD systems, a main preprocessing technique is defining the region(s) of interest. In this way, CAD systems may also benefit from the information gained by the segmentation of the pectoral muscle.
+The goal of this project is to develop a computer vision system to perform the segmentation of the pectoral muscle in mammograms. A mammogram is an X-ray image of the breast and can be segmented into different anatomical regions depending on the type of tissue present. Segmenting the location of each type of tissue is both relevant for radiologists as well as computer-aided diagnosis (CAD) systems. With CAD systems, a main preprocessing technique is defining the region(s) of interest. In this way, CAD systems may also benefit from the information gained by the segmentation of the pectoral muscle.
 
 ## Dataset
-Two publicly available datasets were used for this project: <a href="https://wiki.cancerimagingarchive.net/display/Public/CBIS-DDSM">DDSM</a> and <a href="https://www.repository.cam.ac.uk/handle/1810/250394">MIAS</a>. Both datasets are comprised of scanned film mamography images. Due to the scans, the images contain noise and have numerous artifacts of different types, which are handled through pre-processing steps. The DDSM dataset contains images of both mediolateral oblique (MLO) and craniocaudal (CC) views, MIAS only contain MLO images. For this project only the MLO views were used as the CC view does not contain any pectoral tissue. 
+Two publicly available datasets were used for this project: <a href="https://wiki.cancerimagingarchive.net/display/Public/CBIS-DDSM">DDSM</a> and <a href="https://www.repository.cam.ac.uk/handle/1810/250394">MIAS</a>. Both datasets are comprised of scanned film mammography images. Due to the scans, the images contain noise and have numerous artifacts of different types, which are handled through pre-processing steps. The DDSM dataset contains images of both mediolateral oblique (MLO) and craniocaudal (CC) views, MIAS only contains MLO images. For this project only the MLO views were used as the CC view does not contain any pectoral tissue. 
 
 ![mdb009](https://user-images.githubusercontent.com/72168799/133535367-b2590f9c-3247-4bfa-82fd-5ee4b7a9693b.png)
 ![mdb009](https://user-images.githubusercontent.com/72168799/133535376-c0554256-dbd0-4d11-b0a4-94ef3cca9fbb.png)
@@ -13,7 +13,7 @@ In this image, we can observe the difference after the pre-processing steps have
 
 
 ## Model
-The model used for this project is a modified <a href="https://arxiv.org/ftp/arxiv/papers/2011/2011.01118.pdf">U-Net</a> using depthwise seperable convolutions, as introduced with <a href="https://arxiv.org/pdf/1610.02357.pdf">Xception</a>. The input to the model is a 224x224 grayscale image, and the model outputs a 224x224 segmentation map with pixel-wise classification based on whether that pixel is predicted to be background, breast tissue, or pectoral muscle. 
+The model used for this project is a modified <a href="https://arxiv.org/ftp/arxiv/papers/2011/2011.01118.pdf">U-Net</a> using depthwise separable convolutions, as introduced with <a href="https://arxiv.org/pdf/1610.02357.pdf">Xception</a>. The input to the model is a 224x224 grayscale image, and the model outputs a 224x224 segmentation map with pixel-wise classification based on whether that pixel is predicted to be background, breast tissue, or pectoral muscle. 
 
 ![image](https://user-images.githubusercontent.com/72168799/133542094-c4fd7a42-d087-4bef-bb9c-84e3aba4345c.png)
 
