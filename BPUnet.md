@@ -1,4 +1,4 @@
-# bp-estimation-unet
+# 1D U-Net for Continuous Blood Pressure Estimation
  
 ## Objective
 This project aims to use Electrocardiogram data (ECG) and Photoplethysmography data (PPG) to provide a continuous prediction of arterial blood pressure (ABP). The current methods for measuring blood pressure are invasive, including the use of an arterial line or an inflatable cuff. Deriving the blood pressure signal from the synthesis of other biosignals would allow for continuous blood pressure monitoring in a non-invasive manner.
