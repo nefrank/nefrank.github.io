@@ -1,4 +1,4 @@
-# boat-identification
+# Boat Detection and Tracking Using YOLOv4 and DeepSORT
  
 ## Objective
 The goal of this project is to develop a ship detection system using on-shore video recordings. The overall scope includes detection of maritime objects in each frame (boats, buoys, floating objects, etc.), classification of these objects, and tracking the objects throughout the frames of the video. The model's current capability is to detect and track maritime objects without classification. 
